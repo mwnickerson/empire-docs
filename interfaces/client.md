@@ -78,7 +78,7 @@ Empire will attempt to parse standard Mimikatz outputs and keep them in an inter
 
 When adding credentials manually, use the `usecredentials add` command. There will be blank field with the field that need to be set. Set each field use `set`. Check that the fields are filled out with the `options` command. To save them into the credential menu save them with the `execute` command. 
 
-![manually-add-credentials](/images/manual-credentials.png)
+![manually-add-credentials](https://github.com/mwnickerson/empire-docs/interfaces/images/manual-credentials.png)
 
 
 
